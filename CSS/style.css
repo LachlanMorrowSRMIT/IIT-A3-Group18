@@ -59,4 +59,5 @@
             }
             .video {
               position: relative;
+              left: 100px;
             }
